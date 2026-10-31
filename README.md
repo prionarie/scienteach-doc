@@ -46,7 +46,7 @@ As a Decision Supprt System, this system tracks student performance in real-time
 | **Database** | MySQL |
 | **Hosting** | TiDB, Railway |
 
-### My Contributions
+## My Contributions
 
 **Role:** Project Manager / Backend Developer
 
