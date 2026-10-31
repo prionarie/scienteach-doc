@@ -61,12 +61,10 @@ Term reports are created when an e-class record is marked as complete. This summ
 - Developed and implemented the algorithms and rulesets for mapping student scores to learning competencies, performance analysis, and equivalent instructional recommendations according to student performance levels
 - Monitored and validated the system's alignment with requirements, including accuracy of MELC mapping and retrievel, data analysis' statistical results and genrated recommendations during development and testing
 
-### Experienced Challenges
+### Challenges and Recommendations
 
 Our primary challenge was adapting our project and system to the most recent requirements set by the renewed Department of Education (DepEd) Strengthened Senior High School (SHSS) curriculum. Mid-development, we changed the scope of our project and system to deliver the system within the timeframe of our Capstone course. From this experience, we balanced coordination with our stakeholders and respecting their daytime schedules. 
 
 This predicament however, led us to identifying systematic flaws in our initial system and we were able to further refine our system's alignment with user requirements with the least user friction and added workload. Additionally, we restructured our database and added features that allows the system to be adapt to future changes set by DepEd. We were able to define these changes through comparison of our project's previous and current requirements.
 
-### Future Improvements
-
-Future implementations of the system may benefit from utilizing generative AI to create instructional recommendations trained to accurately tailor DepEd learning competency requirements and learning materials with actionable insights.
+As for recommendations on our current project, the system may benefit from utilizing generative AI to create instructional recommendations trained to accurately tailor DepEd learning competency requirements and learning materials with actionable insights.
