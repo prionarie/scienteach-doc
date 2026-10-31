@@ -4,13 +4,13 @@ This is a web-based decision support system for General Science senior high scho
 
 **Website:** [www.scienteach.tech](https://www.scienteach.tech)
 
-![ScienTeach-SINHS Landing Page](./screenshots/landingpage.png)
+![ScienTeach-SINHS Landing Page](/screenshots/landingpage.png)
 
 ## Key Features
 
 ### E-Class Record
 
-![E-Class Record](./screenshots/eclassrecord.png)
+![E-Class Record](/screenshots/eclassrecord.png)
 
 A fully functional template that replicates the official e-class record administered by DepEd. Teachers will only need to copy and paste data from their spreadsheet file and the template will mirror the calculations for their weighted and transmuted grades. They can also use 'Remedial Mode' to input the students' scores on remedial exams and calculate their improvement score.
 
@@ -20,7 +20,7 @@ Other replicated forms include the Table of Specifications and Item Analysis for
 
 The key module that bridges student scores with accurate performance analysis is the Most Essential Learning Competency (MELC) mapping tool. Upon pasting scores to an activity column, a modal with a checklist of learning competencies (MELCs) will appear. Upon checking and saving, the MELCs become linked to the scores in that activity column. Columns with mapped MELCs are highlighted with a light blue and are applied to all other sections automatically.
 
-![Score-MELC Mapping](./screenshots/scoremapping.png)
+![Score-MELC Mapping](/screenshots/scoremapping.png)
 
 ### Performance Analysis and Recommendations
 
@@ -29,13 +29,19 @@ Performance Analysis is calculated per activity in the e-class record. Results a
 - Individual Performance Summary consist of each students' scores and mastery levels.
 - Recommendations classifies intervention levels according to the range of learning gaps and scope of students with identified learning gaps. Intervention levels have corresponding suggested actions. For written works and performance tasks, recommendations are intended for the class' next meeting. For summative tests and term examinations, recommendations are intended for preparing students for remedial exams.
 
-![Performance Analysis](./screenshots/perfanalysis.png)
+![Performance Analysis](/screenshots/analysis.png)
 
 ### Decision Support
 
 As a Decision Supprt System, this system tracks student performance in real-time. It accumulates scores along with their mapped MELCs within the current academic term. For each selected section, the top 10 MELCs with lowest scores are displayed along with a button to view and download supplementary learning activity sheets.
 
-![Decision Support](./screenshots/DSS.png)
+![Decision Support](/screenshots/dss.png)
+
+### Term Reports
+
+Term reports are created when an e-class record is marked as complete. This summarizes the class' academic performance according to their overall grades, highest performing MELCs, how many students needed remediation, and post-remedial exam improvement.
+
+![Term Reports](/screenshots/reports.png)
 
 ## Tech Stack
 
