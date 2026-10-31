@@ -6,6 +6,15 @@ This is a web-based decision support system for General Science senior high scho
 
 ![ScienTeach-SINHS Landing Page](/screenshots/landingpage.png)
 
+## Tech Stack
+
+| Layer | Technologies |
+|---|---|
+| **Frontend** | HTML, CSS, JavaScript |
+| **Backend** | Python, Flask (framework), NumPy & Pandas (data analysis) |
+| **Database** | MySQL |
+| **Hosting** | TiDB, Railway |
+
 ## Key Features
 
 ### E-Class Record
@@ -42,15 +51,6 @@ As a Decision Supprt System, this system tracks student performance in real-time
 Term reports are created when an e-class record is marked as complete. This summarizes the class' academic performance according to their overall grades, highest performing MELCs, how many students needed remediation, and post-remedial exam improvement.
 
 ![Term Reports](/screenshots/reports.png)
-
-## Tech Stack
-
-| Layer | Technologies |
-|---|---|
-| **Frontend** | HTML, CSS, JavaScript |
-| **Backend** | Python, Flask (framework), NumPy & Pandas (data analysis) |
-| **Database** | MySQL |
-| **Hosting** | TiDB, Railway |
 
 ## My Contributions
 
