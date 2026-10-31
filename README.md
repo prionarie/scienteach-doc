@@ -67,4 +67,4 @@ Our primary challenge was adapting our project and system to the most recent req
 
 This predicament however, led us to identifying systematic flaws in our initial system and we were able to further refine our system's alignment with user requirements with the least user friction and added workload. Additionally, we restructured our database and added features that allows the system to be adapt to future changes set by DepEd. We were able to define these changes through comparison of our project's previous and current requirements.
 
-As for recommendations on our current project, the system may benefit from utilizing generative AI to create instructional recommendations trained to accurately tailor DepEd learning competency requirements and learning materials with actionable insights.
+As for recommendations, the system may benefit from utilizing generative AI to create instructional recommendations trained to accurately tailor DepEd learning competency requirements and learning materials with actionable insights.
