@@ -48,7 +48,8 @@ As a Decision Supprt System, this system tracks student performance in real-time
 
 ### My Contributions
 
-**Role** | Project Manager / Backend Developer
+**Role:** Project Manager / Backend Developer
+
 - Led the project and managed the system's development alongside the project timeline, from client needs assessment until final deployment
 - Authored the system requirements specification, including integration of later revisions by the client and Capstone panelists
 - Developed and implemented the algorithms and rulesets for mapping student scores to learning competencies, performance analysis, and equivalent instructional recommendations according to student performance levels
