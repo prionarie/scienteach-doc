@@ -63,8 +63,8 @@ Term reports are created when an e-class record is marked as complete. This summ
 
 ### Challenges and Recommendations
 
-Our primary challenge was adapting our project and system to the most recent requirements set by the renewed Department of Education (DepEd) Strengthened Senior High School (SHSS) curriculum. Mid-development, we changed the scope of our project and system to deliver the system within the timeframe of our Capstone course. From this experience, we balanced coordination with our stakeholders and respecting their daytime schedules. 
+Our primary challenge was adapting our project and system to the most recent requirements set by the renewed Department of Education (DepEd) Strengthened Senior High School (SHSS) curriculum. Mid-development, we changed the scope of our project and system to deliver the system within the timeframe of our Capstone course. From this experience, we balanced coordination with our stakeholders and respecting their schedules. 
 
-This predicament however, led us to identifying systematic flaws in our initial system and we were able to further refine our system's alignment with user requirements with the least user friction and added workload. Additionally, we restructured our database and added features that allows the system to be adapt to future changes set by DepEd. We were able to define these changes through comparison of our project's previous and current requirements.
+This predicament however, led us to identifying systematic flaws in our initial application and we were able to further refine our system's alignment with user requirements with the least user friction and added workload. Additionally, we restructured our database and added features that allows the system to adapt to future changes set by DepEd. We were able to define these changes through comparison of our project's previous and current requirements.
 
 As for recommendations, the system may benefit from utilizing generative AI to create instructional recommendations trained to accurately tailor DepEd learning competency requirements and learning materials with actionable insights.
