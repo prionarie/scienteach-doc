@@ -6,7 +6,7 @@ This is a web-based decision support system for General Science senior high scho
 
 ![ScienTeach-SINHS Landing Page](/screenshots/landingpage.png)
 
-## Tech Stack
+## 1. Tech Stack
 
 | Layer | Technologies |
 |---|---|
@@ -15,7 +15,7 @@ This is a web-based decision support system for General Science senior high scho
 | **Database** | MySQL |
 | **Hosting** | TiDB, Railway |
 
-## Key Features
+## 2. Key Features
 
 ### E-Class Record
 
@@ -52,7 +52,7 @@ Term reports are created when an e-class record is marked as complete. This summ
 
 ![Term Reports](/screenshots/reports.png)
 
-## My Contributions
+## 3. My Contributions
 
 **Role:** Project Manager / Backend Developer
 
@@ -61,7 +61,7 @@ Term reports are created when an e-class record is marked as complete. This summ
 - Developed and implemented the algorithms and rulesets for mapping student scores to learning competencies, performance analysis, and equivalent instructional recommendations according to student performance levels
 - Monitored and validated the system's alignment with requirements, including accuracy of MELC mapping and retrievel, data analysis' statistical results and genrated recommendations during development and testing
 
-### Challenges and Recommendations
+## 4. Challenges and Recommendations
 
 Our primary challenge was adapting our project and system to the most recent requirements set by the renewed Department of Education (DepEd) Strengthened Senior High School (SHSS) curriculum. Mid-development, we changed the scope of our project and system to deliver the system within the timeframe of our Capstone course. From this experience, we balanced coordination with our stakeholders and respecting their schedules. 
 
