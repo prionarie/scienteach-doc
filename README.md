@@ -6,18 +6,9 @@ This is a web-based decision support system for General Science senior high scho
 
 ![ScienTeach-SINHS Landing Page](/screenshots/landingpage.png)
 
-## 1. Tech Stack
+## 1. Key Features
 
-| Layer | Technologies |
-|---|---|
-| **Frontend** | HTML, CSS, JavaScript |
-| **Backend** | Python, Flask (framework), NumPy & Pandas (data analysis) |
-| **Database** | MySQL |
-| **Hosting** | TiDB, Railway |
-
-## 2. Key Features
-
-### E-Class Record
+### 1.1. E-Class Record
 
 ![E-Class Record](/screenshots/eclassrecord.png)
 
@@ -25,13 +16,13 @@ A fully functional template that replicates the official e-class record administ
 
 Other replicated forms include the Table of Specifications and Item Analysis forms - both tools are used for planning summative tests and term examinations. Like the e-class record, teachers will only need to copy-paste existing data and the form will calculate needed information.
 
-### Score-to-Learning Competency Mapping
+### 1.2. Score-to-Learning Competency Mapping
 
 The key module that bridges student scores with accurate performance analysis is the Most Essential Learning Competency (MELC) mapping tool. Upon pasting scores to an activity column, a modal with a checklist of learning competencies (MELCs) will appear. Upon checking and saving, the MELCs become linked to the scores in that activity column. Columns with mapped MELCs are highlighted with a light blue and are applied to all other sections automatically.
 
 ![Score-MELC Mapping](/screenshots/scoremapping.png)
 
-### Performance Analysis and Recommendations
+### 1.3. Performance Analysis and Recommendations
 
 Performance Analysis is calculated per activity in the e-class record. Results are divided into three main sections: Class Performance Summary, Individual Performance Summary, and Recommendations. 
 - Class Performance Summary consists of the students' average, highest and lowest scores and the class' mastery level categories according to reaching the 75% mastery threshold.
@@ -40,17 +31,26 @@ Performance Analysis is calculated per activity in the e-class record. Results a
 
 ![Performance Analysis](/screenshots/analysis.png)
 
-### Decision Support
+### 1.4. Decision Support
 
 As a Decision Supprt System, this system tracks student performance in real-time. It accumulates scores along with their mapped MELCs within the current academic term. For each selected section, the top 10 MELCs with lowest scores are displayed along with a button to view and download supplementary learning activity sheets.
 
 ![Decision Support](/screenshots/dss.png)
 
-### Term Reports
+### 1.5. Term Reports
 
 Term reports are created when an e-class record is marked as complete. This summarizes the class' academic performance according to their overall grades, highest performing MELCs, how many students needed remediation, and post-remedial exam improvement.
 
 ![Term Reports](/screenshots/reports.png)
+
+## 2. Tech Stack
+
+| Layer | Technologies |
+|---|---|
+| **Frontend** | HTML, CSS, JavaScript |
+| **Backend** | Python, Flask (framework), NumPy & Pandas (data analysis) |
+| **Database** | MySQL |
+| **Hosting** | TiDB, Railway |
 
 ## 3. My Contributions
 
