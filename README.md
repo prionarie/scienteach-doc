@@ -61,10 +61,14 @@ Term reports are created when an e-class record is marked as complete. This summ
 - Developed and implemented the algorithms and rulesets for mapping student scores to learning competencies, performance analysis, and equivalent instructional recommendations according to student performance levels
 - Monitored and validated the system's alignment with requirements, including accuracy of MELC mapping and retrievel, data analysis' statistical results and genrated recommendations during development and testing
 
-## 4. Challenges and Recommendations
+## 4. Challenges and Lessons Learned
 
 Our primary challenge was adapting our project and system to the most recent requirements set by the renewed Department of Education (DepEd) Strengthened Senior High School (SHSS) curriculum. Mid-development, we changed the scope of our project and system to deliver the system within the timeframe of our Capstone course. From this experience, we balanced coordination with our stakeholders and respecting their schedules. 
 
 This predicament, however, led us to identifying systematic flaws in our initial application and we were able to further refine our system's alignment with user requirements with the least user friction and added workload. Additionally, we restructured our database and added features that allows the system to adapt to future changes set by DepEd. We were able to define these changes through comparison of our project's previous and current requirements.
+
+I am very grateful for having selected, developed and defended this project as it greatly increased my confidence and competency in requirements specification, programming, and system design!
+
+## 5. Recommendations
 
 In the future, this system may utilize generative AI to create instructional recommendations trained on DepEd-issued learning resources and accurately tailors learning competency requirements with suggested actions and supplementary materials.  Likewise, the project can be upgraded with agentic AI to address incremental learning gaps and continuously integrate these insights into the lesson planning process.
