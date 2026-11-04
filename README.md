@@ -1,6 +1,6 @@
 # ScienTeach: Educational Performance Analysis and Decision Support System
 
-ScienTeach is a web-based decision support system for General Science senior high school teachers at San Ildefonso National High School (SINHS). It helps identify and address students' learning gaps by analyzing class record data and generating instructional recommendations, including class-level actions and downloadable activities. I developed this system as a **Capstone Project** in partial fulfillment of my Bachelor of Science in Information Technology degree.
+ScienTeach is a web-based decision support system for General Science senior high school teachers at San Ildefonso National High School (SINHS). It helps identify and address students' learning gaps by analyzing class record data and generating instructional recommendations, including class-level actions and downloadable activities. This system was developed as a **Capstone Project** in partial fulfillment of the requirements for the Bachelor of Science in Information Technology program.
 
 **Website:** [www.scienteach.tech](https://www.scienteach.tech)
 
@@ -52,31 +52,22 @@ Term reports are created when an e-class record is marked as complete. This summ
 | **Database** | MySQL |
 | **Hosting** | TiDB, Railway |
 
-## 3. Development Methodology
-
-We implemented **Agile (Scrum)** methodology to manage the Software Development Life Cycle (SDLC) of this project.
-1. **Initiation & Requirements Gathering:** We conducted stakeholder interviews with San Ildefonso National High School to baseline system functional requirements and build our initial product backlog.
-2. **Sprint Planning:** We organized development into 2-3 week sprints to prioritize high-value features and establish clear sprint goals.
-3. **Sprint Execution:** The team developed features incrementally, holding regular syncs to track progress and clear technical blockers.
-4. **Testing & Quality Assurance:** We performed local environment testing using containerized environments to ensure platform stability. 
-5. **Deployment & Review:** Verified features were compiled into functional increments for stakeholder feedback and production readiness.
-
-## 4. Role and Contributions
+## 3. Role and Contributions
 
 **Role:** Project Manager / Backend Developer
-- Led the project and managed the system's development alongside the project timeline, from client needs assessment until final deployment
+- Led the project and managed the system's development alongside the project timeline, from client needs assessment until final deployment, under Agile development methodology.
 - Authored the system requirements specification (SRS) document, managing and integrating ongoing revisions and feedback from both the client and Capstone panelists.
 - Designed the technical architectural diagrams to map out the system's structural components and data flow.
 - Developed and implemented the algorithms and rulesets for mapping student scores to learning competencies, performance analysis, and equivalent instructional recommendations according to student performance levels
 - Monitored and validated the system's alignment with requirements, including accuracy of MELC mapping and retrieval, data analysis' statistical results, and generated recommendations during development and testing
 
-## 5. Challenges and Solutions
+## 4. Challenges and Solutions
 
 Our primary challenge was adapting our project and system to the most recent requirements set by the renewed Department of Education (DepEd) Strengthened Senior High School (SHSS) curriculum. Mid-development, we changed the scope of our project and system to deliver the system within the timeframe of our Capstone course. From this experience, we balanced coordination with our stakeholders and respected their schedules. 
 
 This predicament, however, led us to identify systematic flaws in our initial application, and we further refined our system's alignment with user requirements with minimal user friction and added workload. Additionally, we restructured our database and added features that allow the system to adapt to future changes set by DepEd. We defined these changes by comparing our project's previous and current requirements.
 
-## 6. Recommendations
+## 5. Recommendations
 
 The system currently supports senior high school education under the K-12 curriculum in the Philippines. Future adaptations may align its grade computation, assessment tools, frameworks, and learning competency requirements with private schools or the curricular system of the school that may benefit from it.
 
@@ -86,4 +77,4 @@ In addition, this system may utilize generative AI to create instructional recom
 
 **Reflections:**
 
-I am very grateful for having selected, developed, and defended this Capstone Project. It greatly increased my confidence and skills in requirements specification, programming, system design, and project management. Bridging my academic knowledge with production-grade development while working with a client and deploying to a real environment solidified my passion for software engineering. It showed me that I can take complex technical requirements and turn them into fully functioning systems.
+I am very grateful for having selected, developed, and defended this Capstone Project. It greatly increased my confidence and skills in requirements specification, programming, system design, and project management. Applying what I learned in my academic discipline through production-grade development while working with a client and deploying to a real environment solidified my passion for software engineering and pursuing it as a career!
