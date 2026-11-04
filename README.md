@@ -2,7 +2,7 @@
 
 ScienTeach is a web-based decision support system for General Science senior high school teachers at San Ildefonso National High School (SINHS). It helps identify and address students' learning gaps by analyzing class record data and generating instructional recommendations, including class-level actions and downloadable activities. This system was developed as a **Capstone Project** in partial fulfillment of the requirements for the Bachelor of Science in Information Technology program.
 
-**Website:** [www.scienteach.tech](https://www.scienteach.tech)
+**You may visit the website here:** [www.scienteach.tech](https://www.scienteach.tech)
 
 ![ScienTeach-SINHS Landing Page](/screenshots/landingpage.png)
 
@@ -58,8 +58,8 @@ Term reports are created when an e-class record is marked as complete. This summ
 - Led the project and managed the system's development alongside the project timeline, from client needs assessment until final deployment, under Agile development methodology.
 - Authored the system requirements specification (SRS) document, managing and integrating ongoing revisions and feedback from both the client and Capstone panelists.
 - Designed the technical architectural diagrams to map out the system's structural components and data flow.
-- Developed and implemented the algorithms and rulesets for mapping student scores to learning competencies, performance analysis, and equivalent instructional recommendations according to student performance levels
-- Monitored and validated the system's alignment with requirements, including accuracy of MELC mapping and retrieval, data analysis' statistical results, and generated recommendations during development and testing
+- Developed and implemented the algorithms and rulesets for mapping student scores to learning competencies, performance analysis, and equivalent instructional recommendations according to student performance levels.
+- Monitored and validated the system's alignment with requirements, including accuracy of MELC mapping and retrieval, data analysis' statistical results, and generated recommendations during development and testing.
 
 ## 4. Challenges and Solutions
 
