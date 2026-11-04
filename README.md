@@ -1,4 +1,4 @@
-# ScienTeach: Educational Performance Analysis and Decision Support System
+# ScienTeach | Academic Performance Analysis and Decision Support System
 
 ScienTeach is a web-based decision support system for General Science senior high school teachers at San Ildefonso National High School (SINHS). It helps identify and address students' learning gaps by analyzing class record data and generating instructional recommendations, including class-level actions and downloadable activities. This system was developed as a **Capstone Project** in partial fulfillment of the requirements for the Bachelor of Science in Information Technology program.
 
