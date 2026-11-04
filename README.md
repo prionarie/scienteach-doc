@@ -52,7 +52,7 @@ Term reports are created when an e-class record is marked as complete. This summ
 | **Database** | MySQL |
 | **Hosting** | TiDB, Railway |
 
-## 5. My Contributions
+## 3. My Contributions
 
 **Role:** Project Manager / Backend Developer
 
@@ -62,13 +62,13 @@ Term reports are created when an e-class record is marked as complete. This summ
 - Developed and implemented the algorithms and rulesets for mapping student scores to learning competencies, performance analysis, and equivalent instructional recommendations according to student performance levels
 - Monitored and validated the system's alignment with requirements, including accuracy of MELC mapping and retrieval, data analysis' statistical results, and generated recommendations during development and testing
 
-## 6. Challenges and Solutions
+## 4. Challenges and Solutions
 
 Our primary challenge was adapting our project and system to the most recent requirements set by the renewed Department of Education (DepEd) Strengthened Senior High School (SHSS) curriculum. Mid-development, we changed the scope of our project and system to deliver the system within the timeframe of our Capstone course. From this experience, we balanced coordination with our stakeholders and respected their schedules. 
 
 This predicament, however, led us to identify systematic flaws in our initial application, and we further refined our system's alignment with user requirements with minimal user friction and added workload. Additionally, we restructured our database and added features that allow the system to adapt to future changes set by DepEd. We defined these changes by comparing our project's previous and current requirements.
 
-## 7. Recommendations
+## 5. Recommendations
 
 The system currently supports senior high school education under the K-12 curriculum in the Philippines. Future adaptations may align its grade computation, assessment tools, frameworks, and learning competency requirements with private schools or the curricular system of the school that may benefit from it.
 
