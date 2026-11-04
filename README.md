@@ -55,19 +55,15 @@ Term reports are created when an e-class record is marked as complete. This summ
 ## 3. Development Methodology
 
 We implemented **Agile (Scrum)** methodology to manage the Software Development Life Cycle (SDLC) of this project.
-* **Sprint Planning:** Organized development into 2-week sprints to prioritize high-value features.
-* **Requirements Gathering:** Conducted stakeholder interviews with San Ildefonso National High School to baseline system functional requirements.
-* **Testing & Quality Assurance:** Performed local environment testing using containerized environments to ensure bug-free production deployments
-1. Initiation & Requirements Gathering: We conducted stakeholder interviews with San Ildefonso National High School to baseline system functional requirements and build our initial product backlog. [Insert how you identified users, drafted user stories, or categorized requirements here].
-2. Sprint Planning: We organized development into 2-week sprints to prioritize high-value features and establish clear sprint goals. [Insert how your team estimated tasks, chose items for Sprint 1, or allocated workload here].
-3. Sprint Execution: The team developed features incrementally, holding regular syncs to track progress and clear technical blockers. [Insert your development workflow, how you collaborated, or tools like Trello/Jira used here].
-4. Testing & Quality Assurance: We performed local environment testing using containerized environments to ensure platform stability. [Insert specific testing tools, types of tests run, or how bugs were tracked here].
-5. Deployment & Review: Verified features were compiled into functional increments for stakeholder feedback and production readiness. [Insert deployment platform, how you presented it to the school, or final project hand-off details here].
+1. **Initiation & Requirements Gathering:** We conducted stakeholder interviews with San Ildefonso National High School to baseline system functional requirements and build our initial product backlog.
+2. **Sprint Planning:** We organized development into 2-3 week sprints to prioritize high-value features and establish clear sprint goals.
+3. **Sprint Execution:** The team developed features incrementally, holding regular syncs to track progress and clear technical blockers.
+4. **Testing & Quality Assurance:** We performed local environment testing using containerized environments to ensure platform stability. 
+5. **Deployment & Review:** Verified features were compiled into functional increments for stakeholder feedback and production readiness.
 
-## 4. My Contributions
+## 4. Role and Contributions
 
 **Role:** Project Manager / Backend Developer
-
 - Led the project and managed the system's development alongside the project timeline, from client needs assessment until final deployment
 - Authored the system requirements specification (SRS) document, managing and integrating ongoing revisions and feedback from both the client and Capstone panelists.
 - Designed the technical architectural diagrams to map out the system's structural components and data flow.
