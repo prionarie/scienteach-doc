@@ -52,23 +52,35 @@ Term reports are created when an e-class record is marked as complete. This summ
 | **Database** | MySQL |
 | **Hosting** | TiDB, Railway |
 
-## 3. My Contributions
+## 3. Development Methodology
+
+We implemented **Agile (Scrum)** methodology to manage the Software Development Life Cycle (SDLC) of this project.
+* **Sprint Planning:** Organized development into 2-week sprints to prioritize high-value features.
+* **Requirements Gathering:** Conducted stakeholder interviews with San Ildefonso National High School to baseline system functional requirements.
+* **Testing & Quality Assurance:** Performed local environment testing using containerized environments to ensure bug-free production deployments
+1. Initiation & Requirements Gathering: We conducted stakeholder interviews with San Ildefonso National High School to baseline system functional requirements and build our initial product backlog. [Insert how you identified users, drafted user stories, or categorized requirements here].
+2. Sprint Planning: We organized development into 2-week sprints to prioritize high-value features and establish clear sprint goals. [Insert how your team estimated tasks, chose items for Sprint 1, or allocated workload here].
+3. Sprint Execution: The team developed features incrementally, holding regular syncs to track progress and clear technical blockers. [Insert your development workflow, how you collaborated, or tools like Trello/Jira used here].
+4. Testing & Quality Assurance: We performed local environment testing using containerized environments to ensure platform stability. [Insert specific testing tools, types of tests run, or how bugs were tracked here].
+5. Deployment & Review: Verified features were compiled into functional increments for stakeholder feedback and production readiness. [Insert deployment platform, how you presented it to the school, or final project hand-off details here].
+
+## 4. My Contributions
 
 **Role:** Project Manager / Backend Developer
 
 - Led the project and managed the system's development alongside the project timeline, from client needs assessment until final deployment
-- Authored the
-- Authored the system requirements specification, including integration of later revisions by the client and Capstone panelists
+- Authored the system requirements specification (SRS) document, managing and integrating ongoing revisions and feedback from both the client and Capstone panelists.
+- Designed the technical architectural diagrams to map out the system's structural components and data flow.
 - Developed and implemented the algorithms and rulesets for mapping student scores to learning competencies, performance analysis, and equivalent instructional recommendations according to student performance levels
 - Monitored and validated the system's alignment with requirements, including accuracy of MELC mapping and retrieval, data analysis' statistical results, and generated recommendations during development and testing
 
-## 4. Challenges and Solutions
+## 5. Challenges and Solutions
 
 Our primary challenge was adapting our project and system to the most recent requirements set by the renewed Department of Education (DepEd) Strengthened Senior High School (SHSS) curriculum. Mid-development, we changed the scope of our project and system to deliver the system within the timeframe of our Capstone course. From this experience, we balanced coordination with our stakeholders and respected their schedules. 
 
 This predicament, however, led us to identify systematic flaws in our initial application, and we further refined our system's alignment with user requirements with minimal user friction and added workload. Additionally, we restructured our database and added features that allow the system to adapt to future changes set by DepEd. We defined these changes by comparing our project's previous and current requirements.
 
-## 5. Recommendations
+## 6. Recommendations
 
 The system currently supports senior high school education under the K-12 curriculum in the Philippines. Future adaptations may align its grade computation, assessment tools, frameworks, and learning competency requirements with private schools or the curricular system of the school that may benefit from it.
 
